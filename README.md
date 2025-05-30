@@ -1,4 +1,7 @@
 ## Guida pratica all'ANOVA con R per l’analisi dei dati agronomici
+![anova](https://github.com/user-attachments/assets/ee8a90ac-a690-457d-bc18-0f0c4b8b875b)
+
+adattata da: https://doi.org/10.1007/s13593-023-00914-8
 
 Ho creato questa guida per chi desidera avvicinarsi all’analisi dei dati agronomici in modo semplice e intuitivo. L'[ANOVA](https://it.wikipedia.org/wiki/Analisi_della_varianza)  è uno dei test statistici di base più utilizzati in questo ambito, e [R](https://www.r-project.org/) è uno degli strumenti che offre risultati facilmente interpretabili, anche per chi è alle prime armi.
 
